@@ -4,3 +4,6 @@
 
 # phishing sites
 0.0.0.0 cafe88.com.au
+
+# tracking sites
+0.0.0.0 fbthirdpartypixel.com
