@@ -2,6 +2,41 @@
 # get latest version from:
 # https://raw.githubusercontent.com/SuperSandro2000/hosts/master/hosts
 
+# malware sites
+# https://twitter.com/felixaime/status/1481312381028478977
+0.0.0.0 4api.net
+0.0.0.0 4bash.net
+0.0.0.0 4need.net
+0.0.0.0 4perl.net
+0.0.0.0 black-crystal.net
+0.0.0.0 carbonblackz.art
+0.0.0.0 cmder.co
+0.0.0.0 combolist.cloud
+0.0.0.0 coolmint.net
+0.0.0.0 de4dot.net
+0.0.0.0 dev-c.net
+0.0.0.0 dnspy.dev
+0.0.0.0 dnspy.net
+0.0.0.0 duck.black
+0.0.0.0 filesr.net
+0.0.0.0 inject1byte.com
+0.0.0.0 mingw64.net
+0.0.0.0 obs-studio.net
+0.0.0.0 openbullet.net
+0.0.0.0 sandboxies.com
+0.0.0.0 sandboxies.net
+0.0.0.0 shortbase.net
+0.0.0.0 streamlabsobs.net
+0.0.0.0 toolbase.co
+0.0.0.0 tools-utilities.net
+0.0.0.0 tor-browser.co
+0.0.0.0 torfiles.net
+0.0.0.0 windows-software.co
+0.0.0.0 windows-software.net
+0.0.0.0 xampp.download
+0.0.0.0 xiiideath.com
+0.0.0.0 zippyfiles.net
+
 # phishing sites
 0.0.0.0 cafe88.com.au
 
